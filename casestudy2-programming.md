@@ -14,7 +14,7 @@ By finishing this session, you should be able to
 ## Part 1: Getting Started
 We learned how to record the environment's temperature and humidity in the earlier lessons and send the information to a cloud database. We will now learn how to use a GUI application to retrieve the data from the database and notify the user when the sensor reading deviates from the expected range.
 
-Before obtaining data from the cloud database, the sensor must be turned on and the **`sensor.py`** be running so that data can be continuously uploaded to the database.
+Before obtaining data from the cloud database, the sensor must be turned on and the **`sensor.py`** should be running so that data can be continuously uploaded to the database.
 
 1. Power on the ROCK PI device and log in using the provided username and password.
 2. Connect to the WIFI network.
